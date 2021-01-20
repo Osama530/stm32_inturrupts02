@@ -1,0 +1,1 @@
+/home/iot-dev/Documents/Rust_prac/stm_interrupt/target/thumbv7em-none-eabihf/debug/stm_interrupt: /home/iot-dev/Documents/Rust_prac/stm_interrupt/build.rs /home/iot-dev/Documents/Rust_prac/stm_interrupt/memory.x /home/iot-dev/Documents/Rust_prac/stm_interrupt/src/main.rs memory.x

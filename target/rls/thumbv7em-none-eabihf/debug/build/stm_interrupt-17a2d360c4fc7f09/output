@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/home/iot-dev/Documents/Rust_prac/stm_interrupt/target/rls/thumbv7em-none-eabihf/debug/build/stm_interrupt-17a2d360c4fc7f09/out
+cargo:rerun-if-changed=memory.x

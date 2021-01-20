@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/iot-dev/Documents/Rust_prac/stm_interrupt/target/thumbv7em-none-eabihf/debug/build/stm32f3-a00a91603e881cdd/out
+cargo:rerun-if-changed=src/stm32f303/device.x
+cargo:rerun-if-changed=build.rs
